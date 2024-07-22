@@ -8,8 +8,10 @@ psycopg2-binary>=2.9.3
 pymysql>=1.0.2
 python-dotenv>=0.20.0
 requests>=2.27.1
-scikit-learn
+scikit-learn>=0.24.2
 seaborn>=0.12.2
 sqlalchemy>=1.4.37
 sympy>=1.10.1
-xgboost
+xgboost>=1.6.1
+joblib>=1.1.0
+shap>=0.41.0
